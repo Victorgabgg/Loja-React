@@ -1,0 +1,89 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camiseta Básica",
+      "descricao": "Uma camiseta simples e confortável",
+      "preco": 49.99,
+      "imagem": "https://images.unsplash.com/photo-1574180566232-aaad1b5b8450?w=300&auto=format"
+    },
+    {
+      "id": 2,
+      "nome": "Tênis Esportivo",
+      "descricao": "Para corrida e atividades físicas",
+      "preco": 199.99,
+      "imagem": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-4.0.3&auto=format&fit=crop&w=300"
+
+    },
+    {
+      "id": 3,
+      "nome": "Mochila de Viagem",
+      "descricao": "Perfeita para longas viagens e aventuras",
+      "preco": 159.99,
+      "imagem": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=300&auto=format"
+    },
+    {
+      "id": 4,
+      "nome": "Relógio de Pulso",
+      "descricao": "Elegante e moderno",
+      "preco": 299.99,
+      "imagem": "https://images.unsplash.com/photo-1582150264904-e0bea5ef0ad1?w=300&auto=format"
+    },
+    {
+      "id": 5,
+      "nome": "Fone Bluetooth",
+      "descricao": "Som de alta qualidade, sem fio",
+      "preco": 99.99,
+      "imagem": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=300&auto=format"
+    },
+    {
+      "id": 6,
+      "nome": "Notebook Gamer",
+      "descricao": "Alto desempenho para jogos",
+      "preco": 4599.99,
+      "imagem": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=300&auto=format"
+    },
+    {
+      "id": 7,
+      "nome": "Cadeira Ergonômica",
+      "descricao": "Conforto para longas horas",
+      "preco": 799.99,
+      "imagem": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=300&auto=format"
+    },
+    {
+      "id": 8,
+      "nome": "Smartphone Android",
+      "descricao": "Celular rápido com boa câmera",
+      "preco": 1799.99,
+      "imagem": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&auto=format"
+    },
+    {
+      "id": 9,
+      "nome": "Teclado Mecânico",
+      "descricao": "Ideal para digitação e jogos",
+      "preco": 299.99,
+      "imagem": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300&auto=format"
+    },
+    {
+      "id": 10,
+      "nome": "Mouse Gamer",
+      "descricao": "Alta precisão para jogos",
+      "preco": 129.99,
+      "imagem": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&auto=format"
+    },
+    {
+      "id": 11,
+      "nome": "Monitor 27\"",
+      "descricao": "Imagem nítida e grande",
+      "preco": 1099.99,
+      "imagem": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=300&auto=format"
+    },
+    {
+      "id": 12,
+      "nome": "Hub USB",
+      "descricao": "Expanda suas conexões",
+      "preco": 49.99,
+      "imagem": "https://images.unsplash.com/photo-1616578781650-cd818fa41e57?w=300&auto=format"
+    }
+  ]
+}
